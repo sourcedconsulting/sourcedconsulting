@@ -9,7 +9,7 @@ I run **[Sourced Consulting](https://sourcedconsulting.com.au)** — lead genera
 | Repo | Description |
 |------|-------------|
 | [**seo-academic-reference**](https://github.com/sourcedconsulting/seo-academic-reference) | 50 SEO tactics, 63-page academic reference guide, published by Sourced Consulting |
-| [**SEO**](https://github.com/sourcedconsulting/SEO) | Python CLI tools for on-page SEO — scorecards, clause density, ready to run |
+| [**SEO**](https://github.com/sourcedconsulting/SEO) | 6 Python CLI tools for on-page & local tradie SEO — on-page scorecard, clause density, keyword clustering, AU citation audits, JSON-LD validator, backlink signals |
 
 ---
 
