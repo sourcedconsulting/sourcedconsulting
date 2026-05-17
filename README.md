@@ -1,25 +1,27 @@
-# Hi, I'm Jamie Munro
+# Jamie Munro · Sourced Consulting
 
-I run **[Sourced Consulting](https://sourcedconsulting.com.au)** — lead generation for Australian tradies via the **Sourced & Booked** system.
+> **Done-for-you lead generation for Australian tradies through the [Sourced & Booked](https://sourcedconsulting.com.au) system.**
 
----
-
-## Pinned Repositories
-
-| Repo | Description |
-|------|-------------|
-| [**seo-academic-reference**](https://github.com/sourcedconsulting/seo-academic-reference) | 50 SEO tactics, 63-page academic reference guide, published by Sourced Consulting |
-| [**SEO**](https://github.com/sourcedconsulting/SEO) | 6 Python CLI tools for on-page & local tradie SEO — on-page scorecard, clause density, keyword clustering, AU citation audits, JSON-LD validator, backlink signals |
+I use local SEO, Google Business Profile optimisation, and audited reference frameworks to get tradie businesses consistently found and booked — without them doing the legwork themselves.
 
 ---
 
-## About Sourced Consulting
+## 🔥 What I'm shipping right now
 
-Sourced Consulting builds done-for-you lead generation systems for tradie businesses across Australia.
-
-- [sourcedconsulting.com.au](https://sourcedconsulting.com.au)
-- 0424 951 408
+| Project | Why it matters |
+|---|---|
+| **[seo-academic-reference](https://github.com/sourcedconsulting/seo-academic-reference)** | 50 quick-win SEO tactics backed by Google's own documentation. Frames recommendations on evidence, not opinion. |
+| **[SEO](https://github.com/sourcedconsulting/SEO)** | Open-source Python CLI: on-page scorecard, clause-density audits, keyword clustering, AU citation coverage, JSON-LD schema validator, Wayback backlink signals. Built for tradie sites where you need reproducible crawls, not one-click fluff. |
+| **[sourcedconsulting.com.au](https://sourcedconsulting.com.au)** | Client-facing site — the [Sourced & Booked](https://sourcedconsulting.com.au) method for tradie lead gen. |
 
 ---
 
-> Built with love in Brisbane QLD, Australia
+## 🧰 Tech & approach
+
+- **SEO is the entry point — the product is a booked calendar**, month after month.
+- Reproducible tooling beats guesswork. Delivery is documented, repeatable, and auditable.
+- Brisbane QLD · 🇦🇺 · [0424 951 408](tel:0424951408)
+
+---
+
+> *I work client-to-client with tradie business owners — no agencies, no cold-calling, no spam. Results first.*
