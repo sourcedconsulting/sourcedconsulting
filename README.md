@@ -8,7 +8,8 @@ I run **[Sourced Consulting](https://sourcedconsulting.com.au)** — lead genera
 
 | Repo | Description |
 |------|-------------|
-| [**seo-academic-reference**](https://github.com/sourcedconsulting/seo-academic-reference) | SEO Academic Reference Guide — 50 actionable SEO tactics, stripped of third-party branding, published by Sourced Consulting |
+| [**seo-academic-reference**](https://github.com/sourcedconsulting/seo-academic-reference) | 50 SEO tactics, 63-page academic reference guide, published by Sourced Consulting |
+| [**SEO**](https://github.com/sourcedconsulting/SEO) | Python CLI tools for on-page SEO — scorecards, clause density, ready to run |
 
 ---
 
