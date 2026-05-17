@@ -26,10 +26,10 @@ I use local SEO, Google Business Profile optimisation, and audited reference fra
 
 ## Connect
 
-[![X](https://img.shields.io/badge/X-@sourcedconsult-000?logo=x)](https://x.com/sourcedconsult)
-[![Facebook](https://img.shields.io/badge/Facebook-SourcedConsulting-1877F2?logo=facebook)](https://www.facebook.com/SourcedConsulting/)
-[![Instagram](https://img.shields.io/badge/Instagram-@sourced_consulting-E4405F?logo=instagram)](https://www.instagram.com/sourced_consulting)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sourced%20Consulting-0A66C2?logo=linkedin)](https://www.linkedin.com/company/sourcedconsulting)
+- **[X / Twitter](https://x.com/sourcedconsult)** — `@sourcedconsult`
+- **[Facebook](https://www.facebook.com/SourcedConsulting/)** — Sourced Consulting
+- **[Instagram](https://www.instagram.com/sourced_consulting)** — `@sourced_consulting`
+- **[LinkedIn](https://www.linkedin.com/company/sourcedconsulting)** — Sourced Consulting
 
 ---
 
